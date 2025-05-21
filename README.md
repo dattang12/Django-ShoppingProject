@@ -1,0 +1,2 @@
+# ShoppingProject-Django
+
